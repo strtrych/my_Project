@@ -26,27 +26,27 @@
 
 ##### 1、登录界面
 
-![loginMenu]()
+![loginMenu](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/loginMenu.png)
 
 ##### 2、线路管理界面
 
-![subwayMenu]()
+![subwayMenu](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/subwayMenu.png)
 
 ##### 3、所有路径查询
 
-![allPath]()
+![allPath](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/allPath.png)
 
 ##### 4、最短路径查询
 
-![shortestPath]()
+![shortestPath](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/shortestPath.png)
 
 ##### 5、显示邻接链表数据
 
-![showList]()
+![showList](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/showList.png)
 
 ##### 6、地铁线路展示
 
-![showMap]()
+![showMap](https://github.com/strtrych/my_Project/blob/main/subwayManageSystem/pic/showMap.png)
 
 #### 四、注意事项
 
